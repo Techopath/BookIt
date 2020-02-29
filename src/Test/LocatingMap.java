@@ -2,8 +2,8 @@ package Test;
 
 public class LocatingMap {
     public static void main(String[] args) {
-        //
         
-        //added from Github
+        
+        //this line is added from Github
     }
 }
